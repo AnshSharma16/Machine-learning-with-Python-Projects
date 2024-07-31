@@ -1,2 +1,2 @@
-# Machine-learning-regression-with-Python
+# Machine-learning-Python
 Greetings! Here are my ML regession projects!
